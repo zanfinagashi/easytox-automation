@@ -1,4 +1,4 @@
-package com.easytox.automation.steps;
+package com.easytox.automation.steps.printReports;
 
 import java.util.List;
 
