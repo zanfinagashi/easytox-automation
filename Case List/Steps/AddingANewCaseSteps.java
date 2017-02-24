@@ -1,4 +1,4 @@
-package com.easytox.automation.steps;
+package com.easytox.automation.steps.caseList;
 
 import org.testng.Assert;
 import org.openqa.selenium.By;
