@@ -1,4 +1,4 @@
-package com.easytox.automation.steps;
+package com.easytox.automation.steps.orderList;
 
 import java.util.List;
 
