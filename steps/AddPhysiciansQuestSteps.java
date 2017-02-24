@@ -1,4 +1,4 @@
-package com.easytox.automation.steps;
+package com.easytox.automation.steps.addPhysicians;
 import java.util.List;
 
 import com.easytox.automation.driver.DriverBase;
