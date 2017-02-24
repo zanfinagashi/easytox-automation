@@ -1,4 +1,4 @@
-package com.easytox.automation.steps;
+package com.easytox.automation.steps.labUserAdmin.verifyLabClientList;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
