@@ -1,4 +1,4 @@
-package com.easytox.automation.steps.addPhysicians;
+package com.easytox.automation.steps.accessionPrefix;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
